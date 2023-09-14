@@ -1,13 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+## Hi!! I'm George Telles 👨🏽‍💻
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> <strong>Financial Consultant and Developer</strong>💻 📈 Always seeking synergy between technology, finance and investments. 💰</p>&nbsp;
 
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> <strong>Consultor Financeiro e Programador</strong>💻 📈 Sempre buscando a sinergia entre tecnologia, finanças e investimentos. 💰</p>&nbsp;
 
  &nbsp;
-
 ## My Skills
 
 #### Main Stack:
