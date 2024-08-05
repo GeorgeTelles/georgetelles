@@ -1,3 +1,5 @@
+<img src="https://github.com/GeorgeTelles/georgetelles/blob/f69531ec6b293b5148563588a764c010015d315e/logo_clara.png">
+
 
 ## Hi!! I'm George Telles 👨🏽‍💻
 
