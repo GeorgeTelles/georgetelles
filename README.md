@@ -2,9 +2,9 @@
 
 
 ## Hi!! I'm George Telles 👨🏽‍💻
-**Especialista em Finanças e Investimentos | Desenvolvedor Focado em Investimentos Quant | Analista de Dados | Criador de Conteúdo | Educador Financeiro | Data Analyst**
+**Finance and Investment Specialist | Quantitative Investment Developer | Data Analyst | Content Creator | Financial Educator**
 
-Brasileiro, 31 anos, 10 anos de experiência no mercado financeiro, focado em análise de dados e investimentos. Como desenvolvedor Python, aplico tecnologias como SQL, Power BI, VBA e inteligência artificial para otimizar processos e criar soluções automatizadas. Com expertise em Pandas e NumPy, desenvolvo análises financeiras detalhadas e sistemas de trading. Atuo também como consultor financeiro, oferecendo estratégias personalizadas e educação financeira através de palestras, cursos e mentorias. transformo números em decisões estratégicas e dados em insights valiosos, atuando tanto em ações quanto em criptomoedas. Sempre em busca de novos desafios que impulsionem meu crescimento intelectual e resultados positivos.
+Brazilian, 31 years old, with 10 years of experience in the financial market, focusing on data analysis and investments. As a Python developer, I use technologies such as SQL, Power BI, VBA, and artificial intelligence to optimize processes and create automated solutions. With expertise in Pandas and NumPy, I develop detailed financial analyses and trading systems. I also work as a financial consultant, offering personalized strategies and financial education through lectures, courses, and mentoring. I transform numbers into strategic decisions and data into valuable insights, working with both stocks and cryptocurrencies. Always seeking new challenges to drive intellectual growth and positive results.
 
  &nbsp;
 ## My Skills
@@ -44,7 +44,7 @@ Brasileiro, 31 anos, 10 anos de experiência no mercado financeiro, focado em an
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/georgetellesmattos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!-- <a href="https://www.instagram.com/georgetellesmattos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 <a href = "mailto:george_12hotmail.com.br"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/georgetelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
