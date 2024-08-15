@@ -41,34 +41,34 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 
 # Projetos, Códigos e Ferramentas
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
-**Análise de Dados de Ecommerce com Regressão Linear**
+**Ecommerce Data Analysis with Linear Regression / Análise de Dados de Ecommerce com Regressão Linear**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Simulador_Alocacao_Portfolio)
-**Simulador de Alocação de Portfolio**
+**Portfolio Allocation Simulator / Simulador de Alocação de Portfolio**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Trading_Automatizado_Python_MT5)
-**Algoritmo Automatizado de Trading com Python e MetaTrader5**
+**Automated Trading Algorithm with Python and MetaTrader5 / Algoritmo Automatizado de Trading com Python e MetaTrader5**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/extracao_analise_dividendos)
-**Extração e Análise de Dividendos com Python**
+**Dividend Extraction and Analysis with Python / Extração e Análise de Dividendos com Python**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/backtest_bollinger_bands)
-**Backtesting com Bandas de Bollinger**
+**Backtesting with Bollinger Bands / Backtesting com Bandas de Bollinger**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/modelo_preditivo_ibov_GARCH)
-**Prevendo a Volatilidade do IBOV com o Modelo GARCH**
+**Predicting IBOV Volatility with the GARCH Model / Prevendo a Volatilidade do IBOV com o Modelo GARCH**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/DY_por_setor)
-**Análise Setorial - Um Estudo de Caso com Dividendos por setor**
+**Sector Analysis - A Case Study with Dividends by Sector / Análise Setorial - Um Estudo de Caso com Dividendos por setor**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/portfolio_optimization)
-**Otimização de Portfolio**
+**Portfolio Optimization / Otimização de Portfolio**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/detector_topos_fundos)
-**Detector de Topos e Fundos no Grafico**
+**Peak and Trough Detector on the Chart / Detector de Topos e Fundos no Grafico**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/world_weekly_report)
-**Relatorio Semanal dos Principais Mercados Financeiros Mundiais**
+**Weekly Report of Major Global Financial Markets / Relatório Semanal dos Principais Mercados Financeiros Mundiais**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles?tab=repositories)
 **Other Projects**
