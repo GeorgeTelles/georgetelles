@@ -58,6 +58,21 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/modelo_preditivo_ibov_GARCH)
 **Prevendo a Volatilidade do IBOV com o Modelo GARCH**
 
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/DY_por_setor)
+**Análise Setorial - Um Estudo de Caso com Dividendos por setor**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/portfolio_optimization)
+**Otimização de Portfolio**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/detector_topos_fundos)
+**Detector de Topos e Fundos no Grafico**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/world_weekly_report)
+**Relatorio Semanal dos Principais Mercados Financeiros Mundiais**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles?tab=repositories)
+**Other Projects**
+
 ## Contacts:
 
 <div> 
