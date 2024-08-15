@@ -43,6 +43,21 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
 **Análise de Dados de Ecommerce com Regressão Linear**
 
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Simulador_Alocacao_Portfolio)
+**Simulador de Alocação de Portfolio**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Trading_Automatizado_Python_MT5)
+**Algoritmo Automatizado de Trading com Python e MetaTrader5**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
+**Análise de Dados de Ecommerce com Regressão Linear**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
+**Análise de Dados de Ecommerce com Regressão Linear**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
+**Análise de Dados de Ecommerce com Regressão Linear**
+
 ## Contacts:
 
 <div> 
