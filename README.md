@@ -40,7 +40,7 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 &nbsp;
 
 # Projetos, Códigos e Ferramentas
-[![Dark](https://img.shields.io/badge/Open-Project-black)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
 **Análise de Dados de Ecommerce com Regressão Linear**
 
 ## Contacts:
