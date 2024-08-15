@@ -2,10 +2,9 @@
 
 
 ## Hi!! I'm George Telles 👨🏽‍💻
+**Especialista em Finanças e Investimentos | Desenvolvedor Focado em Investimentos Quant | Analista de Dados | Criador de Conteúdo | Educador Financeiro | Data Analyst**
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> <strong>Financial Consultant and Developer</strong>💻 📈 Always seeking synergy between technology, finance and investments. 💰</p>&nbsp;
-
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> <strong>Consultor Financeiro e Programador</strong>💻 📈 Sempre buscando a sinergia entre tecnologia, finanças e investimentos. 💰</p>&nbsp;
+Brasileiro, 31 anos, 10 anos de experiência no mercado financeiro, focado em análise de dados e investimentos. Como desenvolvedor Python, aplico tecnologias como SQL, Power BI, VBA e inteligência artificial para otimizar processos e criar soluções automatizadas. Com expertise em Pandas e NumPy, desenvolvo análises financeiras detalhadas e sistemas de trading. Atuo também como consultor financeiro, oferecendo estratégias personalizadas e educação financeira através de palestras, cursos e mentorias. transformo números em decisões estratégicas e dados em insights valiosos, atuando tanto em ações quanto em criptomoedas. Sempre em busca de novos desafios que impulsionem meu crescimento intelectual e resultados positivos.
 
  &nbsp;
 ## My Skills
@@ -37,6 +36,10 @@
 
 &nbsp;
 &nbsp;
+
+# Projetos, Códigos e Ferramentas
+[![Dark](https://img.shields.io/badge/Open-Project-black)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
+**Análise de Dados de Ecommerce com Regressão Linear**
 
 ## Contacts:
 
