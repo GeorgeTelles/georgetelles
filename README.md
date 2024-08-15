@@ -49,14 +49,14 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Trading_Automatizado_Python_MT5)
 **Algoritmo Automatizado de Trading com Python e MetaTrader5**
 
-[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
-**Análise de Dados de Ecommerce com Regressão Linear**
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/extracao_analise_dividendos)
+**Extração e Análise de Dividendos com Python**
 
-[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
-**Análise de Dados de Ecommerce com Regressão Linear**
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/backtest_bollinger_bands)
+**Backtesting com Bandas de Bollinger**
 
-[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
-**Análise de Dados de Ecommerce com Regressão Linear**
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/modelo_preditivo_ibov_GARCH)
+**Prevendo a Volatilidade do IBOV com o Modelo GARCH**
 
 ## Contacts:
 
