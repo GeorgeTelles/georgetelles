@@ -12,7 +12,7 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; -->
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -26,8 +26,10 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 
 ![Static Badge](https://img.shields.io/badge/CRYPTOCURRENCIES-CRIPTO?style=for-the-badge&logo=bitcoin&color=E34F26)
 ![Static Badge](https://img.shields.io/badge/STOCK%20EXCHANGE-STOCK?style=for-the-badge&logo=STONCKS&color=0792ed)
-![Static Badge](https://img.shields.io/badge/QUANT%20TRADER-QUANT?style=for-the-badge&logo=STONCKS&color=%2300c340)
+![Static Badge](https://img.shields.io/badge/QUANT%20FINANCE-QUANT?style=for-the-badge&logo=STONCKS&color=%2300c340)
 ![Static Badge](https://img.shields.io/badge/FINANCIAL%20CONSULTING-FINANCIAL?style=for-the-badge&logo=STONCKS&color=%2300e5dc)
+![Static Badge](https://img.shields.io/badge/DATA%20ANALYST-STOCK?style=for-the-badge&logo=STONCKS&color=0792ed)
+![Static Badge](https://img.shields.io/badge/pandas-CRIPTO?style=for-the-badge&color=E34F26)
 
 
 #### Workstation Tools:
@@ -45,8 +47,12 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 
 <div> 
 <!-- <a href="https://www.instagram.com/georgetellesmattos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
-<a href = "mailto:george_12hotmail.com.br"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/georgetelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:georgesmattos@gmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/georgetelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://wa.me/5571988229457" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%238DBE4F?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
+<a href="https://t.me/Georgetelles" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23007A8D?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+
+
 </div>&nbsp;&nbsp;
 
  
