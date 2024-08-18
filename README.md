@@ -40,6 +40,9 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 &nbsp;
 
 # Projetos, Códigos e Ferramentas
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Portfolio-Simulation-Monte-Carlo-Method.)
+**Portfolio Simulation with the Monte Carlo Method / Simulação de Portfólio com o Método de Monte Carlo**
+
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/analise_ecommerce_Regress-o_Linear)
 **Ecommerce Data Analysis with Linear Regression / Análise de Dados de Ecommerce com Regressão Linear**
 
