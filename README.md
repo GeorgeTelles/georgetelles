@@ -39,6 +39,21 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 &nbsp;
 
 # Projetos, Códigos e Ferramentas
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Predictive_Churn_Insurance)
+**Predictive Churn Insurance**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Predictive-Maintenance-System-for-Oil-Refinery)
+**Predictive Maintenance System for Oil Refinery**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Predictive-Claims-Risk-System)
+**Predictive Claims Risk System**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/MTTR-MTBF-Analyzer-Maintenance-Metrics-and-Equipment-Performance)
+**MTTR and MTBF Analyzer Maintenance Metrics and Equipment Performance**
+
+[![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Financial-Fraud-Detector)
+**Financial Fraud Detector**
+
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Portfolio-Simulation-Monte-Carlo-Method.)
 **Portfolio Simulation with the Monte Carlo Method / Simulação de Portfólio com o Método de Monte Carlo**
 
@@ -49,7 +64,7 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 **Portfolio Allocation Simulator / Simulador de Alocação de Portfolio**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Trading_Automatizado_Python_MT5)
-**Automated Trading Algorithm with Python and MetaTrader5 / Algoritmo Automatizado de Trading com Python e MetaTrader5**
+**Automated Trading Algorithm with Python and MetaTrader5 / Algoritmo Automatizado de Trading com Python e MT5**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/extracao_analise_dividendos)
 **Dividend Extraction and Analysis with Python / Extração e Análise de Dividendos com Python**
