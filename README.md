@@ -40,7 +40,7 @@ Brazilian, 31 years old, with 10 years of experience in the financial market, fo
 
 # Projetos, Códigos e Ferramentas
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/N8N)
-**Automations in N8N**
+**N8N Automations**
 
 [![Dark](https://img.shields.io/badge/Open-Project-black/)](https://github.com/GeorgeTelles/Predictive_Churn_Insurance)
 **Predictive Churn Insurance**
